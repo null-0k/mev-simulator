@@ -1,0 +1,14 @@
+=== Profit Distribution Summary ===
+Scenario      Mean      Std Dev   Gini
+Baseline      84.408562 53.507470 0.357541
+StakePool     84.408562 45.888784 0.312826
+EqualPool     84.408562 24.356463 0.164089
+RootStakePool 84.408562 36.719989 0.249774
+
+=== Top 5 Validators Earnings Comparison ===
+ Validator  Baseline      StakePool  EqualPool  RootStakePool
+            63 248.782200 178.971393 142.548819 160.701946
+            80 216.322951 169.224299 134.482120 151.981936
+            11 197.451243 169.989754 132.726983 151.204213
+            92 191.424091 175.715074 149.374874 163.498531
+            18 190.953315 159.460526 133.120326 147.243983
